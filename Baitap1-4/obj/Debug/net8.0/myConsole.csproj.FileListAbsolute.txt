@@ -1,0 +1,14 @@
+d:\C# practice\myConsole\bin\Debug\net8.0\myConsole.exe
+d:\C# practice\myConsole\bin\Debug\net8.0\myConsole.deps.json
+d:\C# practice\myConsole\bin\Debug\net8.0\myConsole.runtimeconfig.json
+d:\C# practice\myConsole\bin\Debug\net8.0\myConsole.dll
+d:\C# practice\myConsole\bin\Debug\net8.0\myConsole.pdb
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.GeneratedMSBuildEditorConfig.editorconfig
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.AssemblyInfoInputs.cache
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.AssemblyInfo.cs
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.csproj.CoreCompileInputs.cache
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.dll
+d:\C# practice\myConsole\obj\Debug\net8.0\refint\myConsole.dll
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.pdb
+d:\C# practice\myConsole\obj\Debug\net8.0\myConsole.genruntimeconfig.cache
+d:\C# practice\myConsole\obj\Debug\net8.0\ref\myConsole.dll
