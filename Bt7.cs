@@ -54,9 +54,9 @@ public class Baitap7 {
             catch (System.Exception)
             {
                 Console.WriteLine("Sai dinh dang so nguyen! Vui long nhap lai.");
-                throw;
             }
         }
+    
     }
 
     public static void SumTwoUnsignedIntegers() {
