@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Product 1",
+    "Price": 10.99,
+    "Category": "Electronics"
+  },
+  {
+    "Id": 2,
+    "Name": "Product 2",
+    "Price": 15.99,
+    "Category": "Clothing"
+  },
+  {
+    "Id": 3,
+    "Name": "Product 3",
+    "Price": 20.99,
+    "Category": "Economic"
+  },
+  {
+    "Id": 4,
+    "Name": "Sản phẩm mới",
+    "Price": 99.99,
+    "Category": "Điện tử"
+  }
+]

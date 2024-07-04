@@ -1,0 +1,3 @@
+bit1, huy, 8, 9, 10
+bit2, cuong, 10, 8, 3
+bit3, hoang, 10, 8, 2
