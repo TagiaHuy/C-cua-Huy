@@ -1,0 +1,15 @@
+D:\Console\CA79\bin\Debug\net8.0\CA79.exe
+D:\Console\CA79\bin\Debug\net8.0\CA79.deps.json
+D:\Console\CA79\bin\Debug\net8.0\CA79.runtimeconfig.json
+D:\Console\CA79\bin\Debug\net8.0\CA79.dll
+D:\Console\CA79\bin\Debug\net8.0\CA79.pdb
+D:\Console\CA79\obj\Debug\net8.0\CA79.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\CA79\obj\Debug\net8.0\CA79.AssemblyInfoInputs.cache
+D:\Console\CA79\obj\Debug\net8.0\CA79.AssemblyInfo.cs
+D:\Console\CA79\obj\Debug\net8.0\CA79.csproj.CoreCompileInputs.cache
+D:\Console\CA79\obj\Debug\net8.0\CA79.sourcelink.json
+D:\Console\CA79\obj\Debug\net8.0\CA79.dll
+D:\Console\CA79\obj\Debug\net8.0\refint\CA79.dll
+D:\Console\CA79\obj\Debug\net8.0\CA79.pdb
+D:\Console\CA79\obj\Debug\net8.0\CA79.genruntimeconfig.cache
+D:\Console\CA79\obj\Debug\net8.0\ref\CA79.dll
