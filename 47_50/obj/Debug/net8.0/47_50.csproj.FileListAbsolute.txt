@@ -1,0 +1,15 @@
+D:\Console\47_50\bin\Debug\net8.0\47_50.exe
+D:\Console\47_50\bin\Debug\net8.0\47_50.deps.json
+D:\Console\47_50\bin\Debug\net8.0\47_50.runtimeconfig.json
+D:\Console\47_50\bin\Debug\net8.0\47_50.dll
+D:\Console\47_50\bin\Debug\net8.0\47_50.pdb
+D:\Console\47_50\obj\Debug\net8.0\47_50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\47_50\obj\Debug\net8.0\47_50.AssemblyInfoInputs.cache
+D:\Console\47_50\obj\Debug\net8.0\47_50.AssemblyInfo.cs
+D:\Console\47_50\obj\Debug\net8.0\47_50.csproj.CoreCompileInputs.cache
+D:\Console\47_50\obj\Debug\net8.0\47_50.sourcelink.json
+D:\Console\47_50\obj\Debug\net8.0\47_50.dll
+D:\Console\47_50\obj\Debug\net8.0\refint\47_50.dll
+D:\Console\47_50\obj\Debug\net8.0\47_50.pdb
+D:\Console\47_50\obj\Debug\net8.0\47_50.genruntimeconfig.cache
+D:\Console\47_50\obj\Debug\net8.0\ref\47_50.dll
