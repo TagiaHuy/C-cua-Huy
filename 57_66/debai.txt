@@ -1,0 +1,18 @@
+Bài tập 57.  
+Viết 1 hàm C# core có đối là biến double r, hàm trả lại 1 json string với 3 trường {"dien_tich" ,"chu_vi" , "duong_kinh"}. 
+Trong hàm main() nhập vào bán kính r, nhập sai thì nhập lại. 
+Gọi hàm để hiển thị kết quả đầu ra
+
+Bài tập 62. Đọc file trên vào 1 biến kiểu Dictionary
+Viết 1 hàm C# static đọc vào 1 json file biết tên file và trả về 1 Dictionary. Viết bằng 2 cách.
+
+Bài tập 63. Viết 1 hàm C# static ghi 1 Dictionary ra file json biết tên file.Hàm trả lại giá trị kiểu gì? Viết bằng 2 cách.Gọi hàm trong Main() để kiểm tra.
+
+Bài tập 64.Viết 1 hàm C# static, ghi 1 mảng 2 chiều các số thực 4 byte ra 1 file csv không có header biết tên file.Gọi hàm trong hàm Main().
+
+Bài tập 65. Viết 1 hàm C# static ghi 1 Dictionary kiểu Value là số thực 8byte ra  1 file csv có header biết tên file.Gọi hàm trong hàm Main().
+
+Bài tập 66.Viết 1 hàm C# static đọc 1 file csv các số thực ,file csv có thể có header hoặc không có header biết tên file vào 1 mảng 2 chiều...Hàm trả lại mảng...
+
+Bài tập 67. Sử dụng thư viện cài bằng gói Nuget thao tác với file Excel xslx https://www.nuget.org/packages/IronXL.Excel/
+
