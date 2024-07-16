@@ -1,0 +1,3 @@
+﻿This is a text file encoded in UTF-8.
+
+It can contain characters from many languages, such as English (áéíóú), French (ç), Spanish (ñ), and German (öü).

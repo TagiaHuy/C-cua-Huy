@@ -1,0 +1,15 @@
+D:\Console\16-7\bin\Debug\net8.0\16-7.exe
+D:\Console\16-7\bin\Debug\net8.0\16-7.deps.json
+D:\Console\16-7\bin\Debug\net8.0\16-7.runtimeconfig.json
+D:\Console\16-7\bin\Debug\net8.0\16-7.dll
+D:\Console\16-7\bin\Debug\net8.0\16-7.pdb
+D:\Console\16-7\obj\Debug\net8.0\16-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\16-7\obj\Debug\net8.0\16-7.AssemblyInfoInputs.cache
+D:\Console\16-7\obj\Debug\net8.0\16-7.AssemblyInfo.cs
+D:\Console\16-7\obj\Debug\net8.0\16-7.csproj.CoreCompileInputs.cache
+D:\Console\16-7\obj\Debug\net8.0\16-7.sourcelink.json
+D:\Console\16-7\obj\Debug\net8.0\16-7.dll
+D:\Console\16-7\obj\Debug\net8.0\refint\16-7.dll
+D:\Console\16-7\obj\Debug\net8.0\16-7.pdb
+D:\Console\16-7\obj\Debug\net8.0\16-7.genruntimeconfig.cache
+D:\Console\16-7\obj\Debug\net8.0\ref\16-7.dll
