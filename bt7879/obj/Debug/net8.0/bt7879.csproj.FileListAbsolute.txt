@@ -1,0 +1,14 @@
+D:\SQLConnect\bt7879\bin\Debug\net8.0\bt7879.exe
+D:\SQLConnect\bt7879\bin\Debug\net8.0\bt7879.deps.json
+D:\SQLConnect\bt7879\bin\Debug\net8.0\bt7879.runtimeconfig.json
+D:\SQLConnect\bt7879\bin\Debug\net8.0\bt7879.dll
+D:\SQLConnect\bt7879\bin\Debug\net8.0\bt7879.pdb
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.AssemblyInfoInputs.cache
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.AssemblyInfo.cs
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.csproj.CoreCompileInputs.cache
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.dll
+D:\SQLConnect\bt7879\obj\Debug\net8.0\refint\bt7879.dll
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.pdb
+D:\SQLConnect\bt7879\obj\Debug\net8.0\bt7879.genruntimeconfig.cache
+D:\SQLConnect\bt7879\obj\Debug\net8.0\ref\bt7879.dll
