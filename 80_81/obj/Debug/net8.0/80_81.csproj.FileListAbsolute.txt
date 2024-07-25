@@ -1,0 +1,14 @@
+D:\SQLConnect\80_81\bin\Debug\net8.0\80_81.exe
+D:\SQLConnect\80_81\bin\Debug\net8.0\80_81.deps.json
+D:\SQLConnect\80_81\bin\Debug\net8.0\80_81.runtimeconfig.json
+D:\SQLConnect\80_81\bin\Debug\net8.0\80_81.dll
+D:\SQLConnect\80_81\bin\Debug\net8.0\80_81.pdb
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.AssemblyInfoInputs.cache
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.AssemblyInfo.cs
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.csproj.CoreCompileInputs.cache
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.dll
+D:\SQLConnect\80_81\obj\Debug\net8.0\refint\80_81.dll
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.pdb
+D:\SQLConnect\80_81\obj\Debug\net8.0\80_81.genruntimeconfig.cache
+D:\SQLConnect\80_81\obj\Debug\net8.0\ref\80_81.dll
